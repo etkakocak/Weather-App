@@ -1,16 +1,15 @@
-# Project: Weather App - 1DV535
+# Project: Weather App
+
+## Download the Android application:  
+* Send the ``app-release.apk`` file to an Android device and tap on it to install.    
 
 *Screenshots of the application:*  
-``Main``:  
 ![Screenshot](/assets/application.png)   
 
-``Graphics``:   
 ![Screenshot](/assets/application2.png)   
 
-``Forecast``:   
 ![Screenshot](/assets/application3.png)   
 
-``About``:   
 ![Screenshot](/assets/application4.png)   
 
 
